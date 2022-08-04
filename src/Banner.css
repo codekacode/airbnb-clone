@@ -1,0 +1,45 @@
+.banner {
+  background: url("http://christy-hu.com/images/graphic/airbnb/banner-08.jpg") center center;
+  height: 55vh;
+  background-size: cover;
+  position: relative;
+}
+
+.banner__info {
+  background-color: #000;
+  color: #fff;
+  padding-top: 14vh;
+  padding-left: 50px;
+  padding-right: 50px; 
+  padding-bottom:  40px;
+  width: 400px;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: #fff;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight:600;
+}
+
+.banner__info>h5{
+  margin-top: 10px;
+}
+
+.banner__info>button:hover {
+  background-color: #fff;
+  color: #ff7779;;
+}
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner__searchButton{
+  background-color: #fff;
+  font-weight:900;
+  text-transform: inherit;
+  color:#ff7779;
+}
