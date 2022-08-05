@@ -1,7 +1,7 @@
 .banner {
   background: url("http://christy-hu.com/images/graphic/airbnb/banner-08.jpg") center center;
-  height: 55vh;
-  background-size: cover;
+  height: 50vh;
+  /* background-size: cover; */
   position: relative;
 }
 
@@ -35,11 +35,12 @@
 .banner__search {
   display: flex;
   flex-direction: column;
+
 }
 
 .banner__searchButton{
-  background-color: #fff;
-  font-weight:900;
-  text-transform: inherit;
-  color:#ff7779;
+  background-color: #fff !important;
+  font-weight:900 !important;
+  text-transform: inherit !important;
+  color:#ff7779 !important;
 }
