@@ -1,4 +1,4 @@
-# WHATSAPP CLONE
+# AIRBNB CLONE
 
 ## Deploy w/ 
 Firebase, try on incognite mode https://airbnb-clone-fd8ae.web.app/
